@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EDÓleo",
-    "currentPage": "NQL7734.html",
+    "currentPage": "nql7734.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1292,10 +1292,10 @@
         }
       ]
     },
-    "NQL7734.html": {
+    "nql7734.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
-        "title": "NQL7734",
+        "title": "nql7734",
         "order": 2
       },
       "components": [
